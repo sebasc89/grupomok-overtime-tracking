@@ -1,0 +1,17 @@
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Application.deps.json
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Application.dll
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Application.pdb
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Application.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Application.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Application.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Application.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Application.dll
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\refint\GrupoMok.OvertimeTracking.Application.dll
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Application.pdb
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\ref\GrupoMok.OvertimeTracking.Application.dll
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Core.dll
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Infrastructure.dll
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Core.pdb
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Infrastructure.pdb
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Application.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Core.deps.json
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Core.dll
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\bin\Debug\net6.0\GrupoMok.OvertimeTracking.Core.pdb
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Core.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Core.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Core.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Core.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Core.dll
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\obj\Debug\net6.0\refint\GrupoMok.OvertimeTracking.Core.dll
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\obj\Debug\net6.0\GrupoMok.OvertimeTracking.Core.pdb
+C:\Users\USUARIO\source\repos\GrupoMok.OvertimeTracking\GrupoMok.OvertimeTracking.Core\obj\Debug\net6.0\ref\GrupoMok.OvertimeTracking.Core.dll

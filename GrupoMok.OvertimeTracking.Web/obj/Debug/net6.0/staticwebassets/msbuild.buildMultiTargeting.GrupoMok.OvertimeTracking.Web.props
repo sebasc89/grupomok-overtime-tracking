@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GrupoMok.OvertimeTracking.Web.props" />
+</Project>

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrupoMok.OvertimeTracking.Core", "GrupoMok.OvertimeTracking.Core\GrupoMok.OvertimeTracking.Core.csproj", "{F2C4A1B4-317E-4B57-8B51-47505F1E18AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrupoMok.OvertimeTracking.Application", "GrupoMok.OvertimeTracking.Sistecredito.OvertimeTracking.Application\GrupoMok.OvertimeTracking.Application.csproj", "{7EEDDD4B-8D28-4785-BCD0-678B1040A15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrupoMok.OvertimeTracking.Infrastructure", "GrupoMok.OvertimeTracking.Infrastructure\GrupoMok.OvertimeTracking.Infrastructure.csproj", "{1A96FD67-129C-4787-86E4-9061B76B6C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrupoMok.OvertimeTracking.Web", "GrupoMok.OvertimeTracking.Web\GrupoMok.OvertimeTracking.Web.csproj", "{FD6DBB73-3418-4D47-8984-511E163A3E80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5491494B-5C23-460A-AF7A-7B6C0C529EEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F08D6A84-86C3-4BB8-8BBB-1EAAB7203911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C4A1B4-317E-4B57-8B51-47505F1E18AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C4A1B4-317E-4B57-8B51-47505F1E18AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C4A1B4-317E-4B57-8B51-47505F1E18AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C4A1B4-317E-4B57-8B51-47505F1E18AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEDDD4B-8D28-4785-BCD0-678B1040A15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEDDD4B-8D28-4785-BCD0-678B1040A15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEDDD4B-8D28-4785-BCD0-678B1040A15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEDDD4B-8D28-4785-BCD0-678B1040A15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A96FD67-129C-4787-86E4-9061B76B6C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A96FD67-129C-4787-86E4-9061B76B6C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A96FD67-129C-4787-86E4-9061B76B6C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A96FD67-129C-4787-86E4-9061B76B6C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6DBB73-3418-4D47-8984-511E163A3E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6DBB73-3418-4D47-8984-511E163A3E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6DBB73-3418-4D47-8984-511E163A3E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6DBB73-3418-4D47-8984-511E163A3E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F2C4A1B4-317E-4B57-8B51-47505F1E18AE} = {5491494B-5C23-460A-AF7A-7B6C0C529EEA}
+		{7EEDDD4B-8D28-4785-BCD0-678B1040A15C} = {5491494B-5C23-460A-AF7A-7B6C0C529EEA}
+		{1A96FD67-129C-4787-86E4-9061B76B6C82} = {5491494B-5C23-460A-AF7A-7B6C0C529EEA}
+		{FD6DBB73-3418-4D47-8984-511E163A3E80} = {5491494B-5C23-460A-AF7A-7B6C0C529EEA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E677DB36-3027-4350-BEF4-287B5339E742}
+	EndGlobalSection
+EndGlobal
